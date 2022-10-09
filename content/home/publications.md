@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication/conference-paper
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -35,7 +35,3 @@ design:
   view: citation
   columns: '1'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
