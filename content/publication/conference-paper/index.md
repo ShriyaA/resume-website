@@ -37,11 +37,11 @@ publication: Workshop on Trustworthy Artificial Intelligence as a part of the EC
 tags: []
 
 # Display this page in the Featured widget?
-# featured: true
+featured: false
 
 # Custom links (uncomment lines below)
-# links:
-- name: Custom Link
+ links:
+ - name: Custom Link
    url: http://example.org
 
 url_pdf: 'https://hal.archives-ouvertes.fr/hal-03773445'
