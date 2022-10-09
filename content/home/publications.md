@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - publication/conference-paper
     tag: ''
     category: ''
     publication_type: ''
@@ -33,7 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
 
 {{% callout note %}}
