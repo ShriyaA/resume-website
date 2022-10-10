@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Emotion Classification on Reddit
 summary: 'Studied emotions expressed in comments on Reddit.com and how they vary within different subreddits. Also looked at correlation of post emotion with upvotes received. Trained BERT-based classifier on Google's GoEmotions dataset.'
 tags:
@@ -28,4 +28,4 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
----
+--- -->
