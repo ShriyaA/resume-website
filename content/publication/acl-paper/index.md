@@ -5,20 +5,20 @@ title: 'Robustness of Explanation Methods for NLP Models'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Tejas Chheda
-  - Dinesh Kandula
-  - Nishant Yadav
-  - Hessel Tuinhof
-  - Taesung Lee
+  - Shib Dasgupta
+  - Michael Boratko
+  - Siddhartha Mishra
+  - Shriya Atmakuri
+  - Dhruvesh Patel
+  - Xiang Lorraine Lee
+  - Andrew McCallum
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2022-09-01T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Workshop on Trustworthy Artificial Intelligence as a part of the ECML/PKDD 22 
+publication: 'Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
+publication_short: 'ACL 2022'
 
 
 tags: []
@@ -43,6 +44,13 @@ featured: false
 # links:
 #  - name: Custom Link
 #    url: http://example.org
+
+url_pdf: 'https://aclanthology.org/2022.acl-long.161.pdf'
+url_code: 'https://github.com/iesl/word2box'
+
+title: 'Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings'
+
+
 
 
 # Featured image
