@@ -29,7 +29,16 @@ experience:
     location: New York
     date_start: '2022-06-06'
     date_end: '2022-08-19'
-    description: TODO
+    description: ''
+
+  - title: Graduate Student Researcher
+    company: Information Extraction and Synthesis Lab
+    company_url: 'https://www.iesl.cs.umass.edu/'
+    company_logo: org-iesl
+    location: Amherst
+    date_start: '2021-02-15'
+    date_end: '2021-08-15'
+    description: ''
 
   - title: Software Engineer
     company: Microsoft
@@ -38,7 +47,7 @@ experience:
     location: India
     date_start: '2018-07-01'
     date_end: '2020-04-17'
-    description: TODO
+    description: ''
 
 design:
   columns: '2'
