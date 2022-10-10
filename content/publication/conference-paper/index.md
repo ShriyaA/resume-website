@@ -36,6 +36,9 @@ publication: Workshop on Trustworthy Artificial Intelligence as a part of the EC
 
 tags: []
 
+url_pdf: 'https://hal.archives-ouvertes.fr/hal-03773445/document'
+url_code: 'https://github.com/ShriyaA/explainable-nlp-robustness'
+
 # Display this page in the Featured widget?
 featured: false
 
