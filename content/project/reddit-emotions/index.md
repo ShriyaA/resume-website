@@ -1,15 +1,13 @@
 ---
-title: Emotion Classification on Reddit
-summary: 'Studied emotions expressed in comments on Reddit.com and how they vary within different subreddits. Also looked at correlation of post emotion with upvotes received. Trained BERT-based classifier on Google's GoEmotions dataset.'
-tags:
-  - Deep Learning
-date: '2021-01-15T00:00:00Z'
+title: Emotions on Reddit
+summary: 'Emotion classification on Reddit comments using BERT-base finetuned on GoEmotions dataset. Studied relationships between emotions expressed and upvotes given.'
+date: '2022-10-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/ShriyaA/reddit-emotions'
 
 image:
-  caption: Photo by Karan Mandre on Unsplash
+  caption: Photo from Unsplash
   focal_point: Smart
 
 #links:
