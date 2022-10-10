@@ -26,6 +26,7 @@ bio: Computer Scientist. Language lover. Idealist.
 interests:
   - Natural Language Processing
   - Computational Linguistics
+  - NLP for Social Science
   - Information Retrieval
   - AI for Good
 
@@ -70,4 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a MS in Computer Science student at the University of Massachusetts (UMass) Amherst. While doing my master's, I've had the opportunity to work in the <a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Lab</a> headed by Prof.<a href="https://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. I've also collaborated with <a href="https://www.linkedin.com/in/taesung-lee/">Taesung Lee</a> and <a href="https://www.linkedin.com/in/tuinhof/">Hessel Tuinhof</a> at IBM Research. I interned this summer at the <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml">Machine Learning Center of Excellence</a> headed by Dr Lidia Mangu.
+
+My research interests are primarily linked to Natural Language Understanding. I am interested in what NLU sytems can tell us about human behavior and in what human cognition can teach us about building better NLU models. I am also interested in ethical, and explainable NLP and applying it towards social good.
+
+Previously, I was a software engineer at Microsoft working on Azure and obtained my undergraduate degree in Computer Science from Manipal Institute of Technology, India.

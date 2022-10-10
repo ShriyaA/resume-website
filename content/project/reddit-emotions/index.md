@@ -1,7 +1,7 @@
 ---
 title: Emotions on Reddit
 summary: 'Emotion classification on Reddit comments using BERT-base finetuned on GoEmotions dataset. Studied relationships between emotions expressed and upvotes given.'
-date: '2022-10-09T00:00:00Z'
+date: '2021-01-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/ShriyaA/reddit-emotions'

@@ -1,7 +1,7 @@
 ---
 title: Supervised Clustering for Fact-Checked Claim Retrieval
 summary: 'Addressed the task of verified claim retrieval - linking an unseen claim to previously-seen claims which have already been fact-checked. Used supervised clustering approach which defined a similarity measure between
-claims and facts using BERT-based representations in order to form a k-nearest neighbor graph. Clusters are then constructed by partitioning this graph such that no cluster contains more than one fact.'
+claims and facts using BERT-based representations.'
 tags:
   - Deep Learning
 date: '2021-12-15T00:00:00Z'
