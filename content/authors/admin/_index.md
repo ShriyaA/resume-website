@@ -10,14 +10,16 @@ last_name: Atmakuri
 superuser: true
 
 # Role/position/tagline
-role: Computer Science Master's Student at UMass Amherst
+role: Skilled Applied AI Researcher & Data Scientist with background in Natural Language Processing and experience translating projects from user requirements to production-ready
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: JPMorgan Chase & Co.
+    url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
   - name: University of Massachusetts Amherst
     url: https://www.umass.edu/
-  - name: Manning College of Information and Computer Science
-    url: https://www.cics.umass.edu/
+#  - name: Manning College of Information and Computer Science
+#    url: https://www.cics.umass.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer Scientist. Language lover. Idealist. 
@@ -25,6 +27,7 @@ bio: Computer Scientist. Language lover. Idealist.
 # Interests to show in About widget
 interests:
   - Natural Language Processing
+  - Generative AI
   - Computational Linguistics
   - NLP for Social Science
   - Information Retrieval
@@ -74,7 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a MS in Computer Science student at the University of Massachusetts (UMass) Amherst. While doing my master's, I've had the opportunity to work in the <a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Lab</a> headed by Prof.<a href="https://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. I've also collaborated with <a href="https://www.linkedin.com/in/taesung-lee/">Taesung Lee</a> and <a href="https://www.linkedin.com/in/tuinhof/">Hessel Tuinhof</a> at IBM Research. I interned this summer at the <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml">Machine Learning Center of Excellence</a> headed by Dr Lidia Mangu at JP Morgan Chase & Co.
+I am an AI & ML Associate, Sr. at the Machine Learning Center of Excellence in JPMorgan Chase & Co. working on news analytics and other exciting applied NLP research projects.
+
+I have an MS in Computer Science student from the University of Massachusetts (UMass) Amherst. While doing my master's, I've had the opportunity to work in the <a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Lab</a> headed by Prof.<a href="https://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. I've also collaborated with <a href="https://www.linkedin.com/in/taesung-lee/">Taesung Lee</a> and <a href="https://www.linkedin.com/in/tuinhof/">Hessel Tuinhof</a> at IBM Research. I interned for one summer at the <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml">Machine Learning Center of Excellence</a> headed by Dr Lidia Mangu at JP Morgan Chase & Co. where I now work full-time
 
 My research interests are primarily linked to Natural Language Understanding. I am interested in what NLU sytems can tell us about human behavior and in what human cognition can teach us about building better NLU models. I am also interested in ethical, and explainable NLP and applying it towards social good.
 
