@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: AI & ML Associate Sr.
+    company: JP Morgan Chase & Co
+    company_url: ''
+    company_logo: org-jpmc
+    location: New York
+    date_start: '2023-01-23'
+    date_end: 'Present'
+    description: ''
+    
   - title: AI & Data Science Summer Associate
     company: JP Morgan Chase & Co
     company_url: ''
