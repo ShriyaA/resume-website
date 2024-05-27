@@ -79,7 +79,9 @@ highlight_name: true
 
 I am an AI & ML Associate, Sr. at the Machine Learning Center of Excellence in JPMorgan Chase & Co. working on news analytics and other exciting applied NLP research projects.
 
-I have an MS in Computer Science student from the University of Massachusetts (UMass) Amherst. While doing my master's, I've had the opportunity to work in the <a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Lab</a> headed by Prof.<a href="https://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. I've also collaborated with <a href="https://www.linkedin.com/in/taesung-lee/">Taesung Lee</a> and <a href="https://www.linkedin.com/in/tuinhof/">Hessel Tuinhof</a> at IBM Research. I interned for one summer at the <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml">Machine Learning Center of Excellence</a> headed by Dr Lidia Mangu at JP Morgan Chase & Co. where I now work full-time
+I have an MS in Computer Science student from the University of Massachusetts (UMass) Amherst. While doing my master's, I've had the opportunity to work in the <a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Lab</a> headed by Prof.<a href="https://people.cs.umass.edu/~mccallum/">Andrew McCallum</a>. I've also collaborated with <a href="https://www.linkedin.com/in/taesung-lee/">Taesung Lee</a> and <a href="https://www.linkedin.com/in/tuinhof/">Hessel Tuinhof</a> at IBM Research. I interned for one summer at the <a href="https://www.jpmorgan.com/technology/applied-ai-and-ml">Machine Learning Center of Excellence</a> headed by Dr Lidia Mangu at JP Morgan Chase & Co. where I now work full-time.
+
+I am passionate about delivering NLP and LLM-based solutions that satisfy users' requirements, ensuring they effectively address their needs and enhance their overall experience. 
 
 My research interests are primarily linked to Natural Language Understanding. I am interested in what NLU sytems can tell us about human behavior and in what human cognition can teach us about building better NLU models. I am also interested in ethical, and explainable NLP and applying it towards social good.
 
