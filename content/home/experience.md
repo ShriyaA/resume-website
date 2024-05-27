@@ -29,7 +29,7 @@ experience:
     company_logo: org-jpmc
     location: New York
     date_start: '2023-01-23'
-    date_end: 'Present'
+    date_end: ''
     description: ''
     
   - title: AI & Data Science Summer Associate
